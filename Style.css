@@ -15,11 +15,11 @@ html,body{
 
 .nav li{
     display: inline;
+    color: white;
 }
 .nav a{
     display: inline-block;
-    padding: .9em;
-    color: white;
+    padding: .5em;
     text-decoration: none;
 }
 .main-nav li{
