@@ -19,7 +19,7 @@ html,body{
 .nav a{
     display: inline-block;
     padding: .5em;
-    color: blueviolet;
+    color: white;
     text-decoration: none;
 }
 .main-nav li{
@@ -33,7 +33,7 @@ html,body{
     text-align: center;
     font-size: 1.1em;
     font-weight: lighter;
-    border-bottom: 1px solid rgba(255, 255, 255, .3);
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
 }
 .main-header {
     background-color: rgba(1,1,1,.6);
