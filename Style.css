@@ -45,3 +45,9 @@ html,body{
 .Owner-name-large{
 font-size: 7em;
 }
+.content{
+    margin: 1em;
+}
+.container{
+    max-width: 900px;
+}
