@@ -17,6 +17,7 @@ html,body{
 .nav li{
     display: inline;
     color: white;
+    font-weight:700;
 }
 .nav a{
     display: inline-block;
@@ -105,7 +106,17 @@ font-size: 3em;
 .about-background {
     background-image: url("Images/TextBorder.jpg");
     
-    background-size: contain;
+    background-size: cover;
   
 
+}
+.about {
+    font-weight: 700;
+    text-justify: inter-word;
+}
+p {
+    text-align: justify;
+}
+.auto {
+    text-justify: auto;
 }
